@@ -1,0 +1,23 @@
+.navbar{
+    position:absolute;
+    bottom:0%;
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+}
+body {
+    background-image: url("http://localhost:3000/img/banner.jpg");
+    background-size: cover;
+  }
+  .banner{
+    margin-top: 100px;
+    margin-left: 200px;
+  }
+  .footer{
+    position: absolute;
+    bottom: 0%;
+    display: flex;
+    justify-content: space-between;
+    width : 100%;
+
+  }
